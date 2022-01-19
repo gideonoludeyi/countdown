@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.countdown {
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.digits {
+    display: flex;
+}
+
+h4 {
+    margin: 0;
+}
